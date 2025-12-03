@@ -1,0 +1,71 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+  <diagram name="Page-1" id="F5Xiq5KSIN9AvAVIlMDX">
+    <mxGraphModel dx="2037" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="680" x="110" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Student&#39;s Interface&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(Mobile Friendly Web Interface)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="310" x="130" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="680" x="110" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Notification&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;System&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="140" x="130" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Rewards System&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="140" x="290" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Event Management&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="140" x="470" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Authenticaion&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;and&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Authorization&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="140" x="630" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="420" x="240" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Database&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;(Student Data,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Organizer Data,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Event Data,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Points Data)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="360" x="270" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Organizer&#39;s Interface&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(Mobile Friendly&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Web Interface)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="310" x="460" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-33" edge="1" parent="1" source="tai5ZB_9KJW0cKHCPOwu-6" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="tai5ZB_9KJW0cKHCPOwu-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="420" as="sourcePoint" />
+            <mxPoint x="400" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-34" connectable="0" parent="tai5ZB_9KJW0cKHCPOwu-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HTTPS Requests/Responses&lt;div&gt;API Calls&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0549" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-36" edge="1" parent="1" source="tai5ZB_9KJW0cKHCPOwu-13" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="tai5ZB_9KJW0cKHCPOwu-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="770" as="sourcePoint" />
+            <mxPoint x="400" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-38" connectable="0" parent="tai5ZB_9KJW0cKHCPOwu-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SQL Queries&lt;div&gt;Data Calls&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0366" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-39" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Presentation Tier&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="205" x="130" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-41" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Application Tier&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="205" x="120" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="tai5ZB_9KJW0cKHCPOwu-42" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Data Tier&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="205" x="210" y="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

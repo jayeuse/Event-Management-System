@@ -1,0 +1,71 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="5sqqbQJZCYAeUBLVvp0d">
+        <mxGraphModel dx="791" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-1" value="Campus Journey" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="340" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-2" value="Students" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="340" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-3" value="Event Organizers" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="620" y="340" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sydH4msfMCRVGS2NOhsi-2" target="sydH4msfMCRVGS2NOhsi-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="420" as="sourcePoint"/>
+                        <mxPoint x="430" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-8" value="Attend/Participate&lt;div&gt;on available Events&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sydH4msfMCRVGS2NOhsi-4" connectable="0" vertex="1">
+                    <mxGeometry x="-0.0547" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sydH4msfMCRVGS2NOhsi-1" target="sydH4msfMCRVGS2NOhsi-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="420" y="310"/>
+                            <mxPoint x="180" y="310"/>
+                        </Array>
+                        <mxPoint x="390" y="420" as="sourcePoint"/>
+                        <mxPoint x="440" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-9" value="Display available Events&lt;div&gt;Display Participation Levels&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sydH4msfMCRVGS2NOhsi-5" connectable="0" vertex="1">
+                    <mxGeometry x="0.0154" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sydH4msfMCRVGS2NOhsi-3" target="sydH4msfMCRVGS2NOhsi-1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="420" as="sourcePoint"/>
+                        <mxPoint x="440" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-10" value="Create and Upload&lt;div&gt;events&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sydH4msfMCRVGS2NOhsi-6" connectable="0" vertex="1">
+                    <mxGeometry x="-0.0315" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sydH4msfMCRVGS2NOhsi-1" target="sydH4msfMCRVGS2NOhsi-3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="420" y="450"/>
+                            <mxPoint x="660" y="450"/>
+                        </Array>
+                        <mxPoint x="390" y="420" as="sourcePoint"/>
+                        <mxPoint x="440" y="370" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sydH4msfMCRVGS2NOhsi-11" value="See who attended Events" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sydH4msfMCRVGS2NOhsi-7" connectable="0" vertex="1">
+                    <mxGeometry x="-0.0016" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
